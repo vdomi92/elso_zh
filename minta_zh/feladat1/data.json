@@ -1,0 +1,9 @@
+[
+  { "Winning numbers": [12, 18, 7, 5, 14], "Guessed numbers": [4, 7, 14, 11, 15], "Amount won": 1286 },
+  { "Winning numbers": [8, 10, 17, 9, 3], "Guessed numbers": [5, 6, 2, 11, 17], "Amount won": 100 },
+  { "Winning numbers": [20, 3, 10, 17, 16], "Guessed numbers": [1, 3, 19, 12, 10], "Amount won": 1830 },
+  { "Winning numbers": [19, 5, 1, 15, 4], "Guessed numbers": [3, 20, 6, 7, 18], "Amount won": 0 },
+  { "Winning numbers": [15, 5, 7, 14, 10], "Guessed numbers": [2, 6, 20, 10, 15], "Amount won": 228 },
+  { "Winning numbers": [18, 8, 4, 15, 7], "Guessed numbers": [6, 18, 5, 14, 7], "Amount won": 854 },
+  { "Winning numbers": [10, 16, 8, 7, 17], "Guessed numbers": [9, 11, 17, 16, 15], "Amount won": 1010 }
+]
